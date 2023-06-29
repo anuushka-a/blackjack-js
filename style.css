@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/background-2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+h2{
+    font-size: 100px;
+    margin-top: 200px;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: black
+}
+
+button{
+    background-color: goldenrod;
+    height: 50px;
+    width: 100px;
+    border-style: none;
+
+} 
+
